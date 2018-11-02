@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jhon paulino's weekly reflection *6"
+title: "jhon paulino's reflection *6"
 date: 2018-10-27
 ---
 
