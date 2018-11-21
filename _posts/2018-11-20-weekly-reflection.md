@@ -4,4 +4,4 @@
 
 
 
-![my game image ](/image/download.png)
+![my game image ](/images/download.png)
