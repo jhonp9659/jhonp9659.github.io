@@ -17,5 +17,7 @@ date:2018-12-14
 
 
 
-# MY GAME IMAGE 
+# MY GAME IMAGE :computer:
 ![flag image](/images/flag.png)
+
+# REFLECTION ON MY PROCESS
