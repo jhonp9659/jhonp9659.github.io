@@ -4,7 +4,7 @@ title:"flag project-in process"
 date:2018-12-14
 ---
 
-# MY PROGRAM
+# MY PROGRAM :paper:
 ``(put-image( star 30 "solid" "white") 
           320 175
           (put-image(circle 70 "solid" "dark green")
