@@ -1,7 +1,7 @@
 ---
-layout:post
-title:"flag project-in process"
-date:2018-12-14
+layout: post
+title: "flag project-in process"
+date: 2018-12-14
 ---
 
 # MY PROGRAM :computer:
