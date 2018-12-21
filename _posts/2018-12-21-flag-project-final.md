@@ -10,8 +10,6 @@ date: 2018-12-21
 The base of my program is ```(rectangle width height "solid" "dark green")```the rectangle is the shape of the base in other words a function. a rectangle function needs 2 numbers and 2 strings so i chose 500 and 300 for the length and width of my base as for strings i chose "solid" and "dark green" because it's the color of the background. the reason why there isn't any numbers in that contract is because i defined the numbers and substituted them for width and height.
 ## Current output
 
-
-
 * * *
 ![Flag](/images/epicpakistanflag.png)
 * * *
