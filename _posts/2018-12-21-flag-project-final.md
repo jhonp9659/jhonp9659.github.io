@@ -4,14 +4,14 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of _Pakistan_ by _Jhon Paulino_
 
 ## Describe your program
 
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
+
 
 * * *
 ![Flag](/images/final-flag.png)
