@@ -20,10 +20,6 @@ in the past week of working ive asked many questions that contributed to my fina
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
-
 * * *
 
 ```
