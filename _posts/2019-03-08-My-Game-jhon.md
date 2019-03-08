@@ -1,1 +1,1 @@
-![MY GAME](/images/download (1).png)
+![MY GAME](/images/download.png)
